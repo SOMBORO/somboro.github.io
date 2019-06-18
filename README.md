@@ -1,2 +1,2 @@
 ## Hello World !
-My name is Bernard SOMBORO et my github is github.com/SOMBORO/
+My name is Bernard SOMBORO and my github is github.com/SOMBORO/
